@@ -45,3 +45,5 @@ Note: To check your work use console.log() to print your resultArray. The letter
 Write an if statement that checks if each letter in the input string is equal to 'e'. If so, use the .push() method to add input[i] to the resultArray.
 
 Note: This statement belongs before the inner for loop block inside the outer for loop. This is because you only want to perform this check once for every letter in the input.
+
+**11.** Next, you want to double the letter u.
