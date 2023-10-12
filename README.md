@@ -49,3 +49,7 @@ Note: This statement belongs before the inner for loop block inside the outer fo
 **11.** Next, you want to double the letter u.
 
 **12.** At the bottom of the program, log the resultArray to the console.
+
+**13.** Currently, resultArray outputs an array of characters. To produce proper whale language, we want to capitalize the array elements and put them together as one string.
+
+Declare a variable resultString that joins our resultArray into a single string and capitalizes all of its letters.
