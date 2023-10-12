@@ -47,3 +47,5 @@ Write an if statement that checks if each letter in the input string is equal to
 Note: This statement belongs before the inner for loop block inside the outer for loop. This is because you only want to perform this check once for every letter in the input.
 
 **11.** Next, you want to double the letter u.
+
+**12.** At the bottom of the program, log the resultArray to the console.
