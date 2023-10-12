@@ -39,3 +39,9 @@ This will enable you to check each letter of input against all the vowels elemen
 **9.** Now instead of just logging the letters, add them to the results array.
 
 Note: To check your work use console.log() to print your resultArray. The letters you logged to the console in step 8 should be now included in your resultArray.
+
+**10.** Whales double their e‘s and the u‘s in their language.
+
+Write an if statement that checks if each letter in the input string is equal to 'e'. If so, use the .push() method to add input[i] to the resultArray.
+
+Note: This statement belongs before the inner for loop block inside the outer for loop. This is because you only want to perform this check once for every letter in the input.
