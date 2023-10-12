@@ -21,3 +21,7 @@ Note: The use of this array will be more apparent within the following steps.
 **3.** Create a variable named resultArray and set it equal to an empty array: []. This will serve as a place to store the vowels from the input string.
 
 **4.** Create a loop to iterate through each letter of the input variable text. In a later step, we will compare each letter with our vowels array.
+
+**5.** To check your work, log the iterator numbered position inside the for loop and run your code. This should count the number of characters in your input string.
+
+Comment out this code when you’re ready to move on.
