@@ -25,3 +25,7 @@ Note: The use of this array will be more apparent within the following steps.
 **5.** To check your work, log the iterator numbered position inside the for loop and run your code. This should count the number of characters in your input string.
 
 Comment out this code when you’re ready to move on.
+
+**6.** Create a nested for loop inside of the for loop you just wrote. Make the inner loop iterate through the vowels array each time the outer loop runs.
+
+This will enable you to check each letter of input against all the vowels elements during each iteration.
