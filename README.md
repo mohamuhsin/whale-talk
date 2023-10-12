@@ -26,6 +26,7 @@ Note: The use of this array will be more apparent within the following steps.
 
 Comment out this code when you’re ready to move on.
 
+**6.** To check your work, log the iterator number positions inside the inner for loop and run your code. You should see 0 through 4 repeatedly because vowels is 5 elements long.
 **6.** Create a nested for loop inside of the for loop you just wrote. Make the inner loop iterate through the vowels array each time the outer loop runs.
 
 This will enable you to check each letter of input against all the vowels elements during each iteration.
