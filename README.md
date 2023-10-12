@@ -35,3 +35,7 @@ Comment out this code when you’re ready to move on.
 Note: To check that everything is working properly, log letter matches to the console.
 
 This will enable you to check each letter of input against all the vowels elements during each iteration.
+
+**9.** Now instead of just logging the letters, add them to the results array.
+
+Note: To check your work use console.log() to print your resultArray. The letters you logged to the console in step 8 should be now included in your resultArray.
