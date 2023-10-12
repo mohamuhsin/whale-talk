@@ -14,3 +14,7 @@ To accomplish this translation, we can use our knowledge of loops. Let’s get s
 # Tasks
 
 **1.** Create a variable named input that is equal to any phrase you’d like. This variable will contain the text you want to translate into “whale talk”.
+
+**2.** Whales only speak with the vowels, “a”, “e”, “i”, “o”, and “u”. Using these lowercase letters, create an array named vowels. This array will not be updated so be sure to choose the appropriate declaration keyword.
+
+Note: The use of this array will be more apparent within the following steps.
