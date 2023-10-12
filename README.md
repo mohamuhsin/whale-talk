@@ -53,3 +53,7 @@ Note: This statement belongs before the inner for loop block inside the outer fo
 **13.** Currently, resultArray outputs an array of characters. To produce proper whale language, we want to capitalize the array elements and put them together as one string.
 
 Declare a variable resultString that joins our resultArray into a single string and capitalizes all of its letters.
+
+**14.** Run the program and sing the output out loud — you officially speak whale!
+
+Note: To confirm, if you change the value of input to ‘turpentine and turtles’, the whale version would read: 'UUEEIEEAUUEE'.
