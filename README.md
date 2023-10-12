@@ -12,3 +12,5 @@ Once we have converted text to the whale language, the result is sung slowly, as
 To accomplish this translation, we can use our knowledge of loops. Let’s get started!
 
 # Tasks
+
+**1.** Create a variable named input that is equal to any phrase you’d like. This variable will contain the text you want to translate into “whale talk”.
